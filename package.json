@@ -1,0 +1,22 @@
+{
+  "name": "dir",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watchAll",
+    "test:coverage": "jest --coverage"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^27.0.1",
+    "jest": "^27.0.6",
+    "ts-jest": "^27.0.5",
+    "typescript": "^4.3.5"
+  },
+  "dependencies": {
+    "x-match-expression": "^0.2.1"
+  }
+}
